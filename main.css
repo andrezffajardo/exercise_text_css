@@ -1,0 +1,16 @@
+body {
+  background-color: #ddd;
+}
+
+p {
+  color: #222fff;
+  text-align: left;
+  text-indent: 40px;
+  line-height: 1.4;
+}
+
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+}
